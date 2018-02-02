@@ -1,6 +1,15 @@
 This project is a AngularNg version of the Janux Template.
 It is on a early stage but can be usefull to someone.
 
+Only the Dashboard, Messages, Widgets and Tables menu options are working. It is trivial add the other options.
+
+Getting started
+
+git clone https://github.com/danilolr/janux-ng.git
+cd janux-ng
+npm install
+ng serve --open
+
 # JanuxNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.

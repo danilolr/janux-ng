@@ -16,7 +16,15 @@ export class MenuComponent implements OnInit {
     'label' : 'Messages',
     'menu' : 'messages',
     'icon' : 'icon-envelope'
-  }  ];
+  },{
+    'label' : 'Widgets',
+    'menu' : 'widgets',
+    'icon' : 'icon-dashboard'
+  },{
+    'label' : 'Tables',
+    'menu' : 'tables',
+    'icon' : 'icon-align-justify'
+  } ];
 
   constructor(private router:Router) { }
 

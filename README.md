@@ -1,3 +1,6 @@
+This project is a AngularNg version of the Janux Template.
+It is on a early stage but can be usefull to someone.
+
 # JanuxNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
